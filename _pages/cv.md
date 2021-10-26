@@ -74,6 +74,12 @@ _Relevant Publications: <a href="../publications/publication1" class="uline">Nam
 
 ## Awards and Honors
 
+- Peter I. Neathery Scholarship/Fellowship (Aug 2020)
+  University of Memphis
+
+-Runner-Up(2016)
+NASA space app challenge Kathmandu 2016
+
 ## Talks and Presentations
 
 ---
