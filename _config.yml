@@ -103,7 +103,7 @@ author:
   name             : "Priti Oli"
   avatar           : "/assets/images/pritiOli-pp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in Computer Science  "
-  location         : "403C, FedEx Institute of Tecnology"
+  location         : "403C, \n FedEx Institute of Tecnology"
   employer         : "University of Memphis"
   email            : "ollipriti@gmail.com"
   uri              :
@@ -275,9 +275,9 @@ defaults:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/

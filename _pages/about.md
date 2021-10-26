@@ -11,7 +11,7 @@ classes: wide
 
 I am a graduate student pursuing my PhD in computer science under the supervision of my Professor Vasile Rus in Language and Information Processing lab at the University of Memphis.
 
-## Professional
+## Prfessional
 
 Before joining the University of Memphis I worked as a full time software engineer at Zakipoint Health.
 
