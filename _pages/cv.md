@@ -47,12 +47,16 @@ Projects:
 
 _Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>_<br>
 
-## Service and Outreach
+## Professional Experience
+
+- Senior Software Development Engineer (2018-2019),
+  Zakipoint Health
+- Software Development Engineer (2017-2018),
+  Zakipoint Health
+- Associate Software Developer(2015-2016)
+  Deerwalk Service
 
 ---
-
-**2013 - Present**<br>
-Outreach<br>
 
 ## Publications
 
@@ -62,7 +66,7 @@ Outreach<br>
 - Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
   Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
 
-- Tamang, L. J., Alshaikh, Z., Khayi, N. A., **Oli, P.**, & Rus, V. (2021, March). A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, \*_ Priti Oli _, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
 
 ---
 
@@ -70,15 +74,15 @@ Outreach<br>
 
 ## Awards and Honors
 
----
-
-Best Jekyll Theme, _Spring 2018_<br>
-
 ## Talks and Presentations
 
 ---
 
 ## Teaching
+
+-Teaching Assistant
+IOE, Pulchowk Campus
+2017
 
 ---
 
