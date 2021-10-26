@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Priti's Space"
+title                    : "Priti Oli"
 title_separator          : "-"
 name                     : "Priti Oli"
 description              : "Priti's academic homepage"
@@ -102,10 +102,10 @@ analytics:
 author:
   name             : "Priti Oli"
   avatar           : "/assets/images/pritiOli-pp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student"
+  bio              : "PhD student at The University Of Memphis"
   location         : "403C, FedEx Institute of Tecnology"
   employer         : "University of Memphis"
-  email            : "email@email.com"
+  email            : "ollipriti@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : 
@@ -120,14 +120,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : 
+  linkedin         : "https://www.linkedin.com/in/priti-oli-a58661b2/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  googlescholar    : "https://scholar.google.com/citations?user=HEMgu08AAAAJ&hl=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "@priti_oli"
   vine             :
   weibo            :
   xing             :
