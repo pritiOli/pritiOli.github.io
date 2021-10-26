@@ -6,11 +6,12 @@ excerpt: ""
 date: 2021-04-18
 venue: "Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. 2021"
 publ: "false"
+citation: "Tamang, L. J., Alshaikh, Z., Khayi, N. A., Oli, P., & Rus, V. (2021, March). A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225)."
+link: ""
+paperurl: ""
 ---
 
 ### Summary
-
-Something, something.
 
 ### Contribution
 

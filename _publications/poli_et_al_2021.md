@@ -6,15 +6,14 @@ excerpt: ""
 date: 2021-04-18
 venue: "The International FLAIRS Conference Proceedings 2021"
 publ: "false"
+citation: "Oli, P., Banjade, R., Tamang, L. J., & Rus, V. (2021, April). Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code. In The International FLAIRS Conference Proceedings (Vol. 34)."
+link: ""
+paperurl: ""
 ---
 
 ### Summary
 
-Something, something.
-
 ### Contribution
-
-I did some MORE things!
 
 ### Abstract
 

@@ -13,11 +13,7 @@ paperurl: ""
 
 ## Summary
 
-tl;dr
-
 ## Contribution
-
-This is what I did!
 
 ## Abstract
 
