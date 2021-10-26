@@ -9,7 +9,7 @@ redirect_from:
 classes: wide
 ---
 
-<img src="../images/wordcloud-coverpic.jpg"><br clear="left">
+<img src="../assets/images/wordcloud-coverpic.jpg"><br clear="left">
 I am a graduate student pursuing my PhD in computer science under the supervision of my Professor Vasile Rus in Language and Information Processing lab at the University of Memphis. My primary research interest in using machine learning techniques in source code to solve various problems. I am also interested in the application of AI in education, specifically in dialogue based tutoring System for code comprehension to assist begginers (cs1 and cs2 students) to better understand JAVA programming.
 
 ## Professional
