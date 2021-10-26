@@ -42,10 +42,8 @@ Tribhuvan University
 Graduate Research Assistant<br>
 Projects:
 
-- **Learner Data Institute (LDI)**, <br>
-- **Collaborative Research: CSEdPad**<br>
-
-_Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>_<br>
+- _Learner Data Institute (LDI)_, <br>
+- _Collaborative Research: CSEdPad_<br>
 
 ## Professional Experience
 
@@ -70,8 +68,6 @@ _Relevant Publications: <a href="../publications/publication1" class="uline">Nam
 
 ---
 
-**Name2** et al. "Title of paper 1", 2016.
-
 ## Awards and Honors
 
 - Peter I. Neathery Scholarship/Fellowship (Aug 2020)
@@ -80,7 +76,13 @@ _Relevant Publications: <a href="../publications/publication1" class="uline">Nam
 -Runner-Up(2016)
 NASA space app challenge Kathmandu 2016
 
-## Talks and Presentations
+## Travel Grant
+
+-- IIS (Institute for Intelligent Systems) Travel Grant (2021)
+
+## Services and Outreach
+
+- Volunteer: Code for Nepal (217-2018)
 
 ---
 
@@ -92,4 +94,6 @@ IOE, Pulchowk Campus
 
 ---
 
-**Summer 1900**<br>
+## Talks and Presentations
+
+---
