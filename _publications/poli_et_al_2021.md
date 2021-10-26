@@ -22,3 +22,5 @@ We present in this paper an automated method to assess the quality of Jupyter no
 [~~Download paper here~~](http://link.to.paper2/)
 
 ### Recommended citation
+
+Oli, P., Banjade, R., Tamang, L. J., & Rus, V. (2021, April). Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code. In The International FLAIRS Conference Proceedings (Vol. 34).
