@@ -20,8 +20,8 @@ a.uline {text-decoration:underline;}
 ---
 
 **In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
+Ph.D. in Computer Science<br>
+University of Memphis<br>
 _Advisor: Dr. Vasile Rus_
 
 **2019-2021**<br>
@@ -40,8 +40,10 @@ Tribhuvan University
 
 **2019 - Present**<br>
 Graduate Research Assistant<br>
-Projects: Learner Data Institute (LDI), <br>
-Collaborative Research: CSEdPad<br>
+Projects:
+
+- **Learner Data Institute (LDI)**, <br>
+- **Collaborative Research: CSEdPad**<br>
 
 _Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>_<br>
 
@@ -54,13 +56,13 @@ Outreach<br>
 
 ## Publications
 
-- Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, Banjade Rabin, Oli
-  Priti, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile, The International FLAIRS Conference Proceedings
+- Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, Banjade Rabin, **Oli
+  Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile, The International FLAIRS Conference Proceedings
   2021
-- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, Oli Priti,
+- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
   Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
 
-\*Tamang, L. J., Alshaikh, Z., Khayi, N. A., Oli, P., & Rus, V. (2021, March). A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- Tamang, L. J., Alshaikh, Z., Khayi, N. A., **Oli, P.**, & Rus, V. (2021, March). A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
 
 ---
 
