@@ -40,9 +40,10 @@ Tribhuvan University
 
 **2019 - Present**<br>
 Graduate Research Assistant<br>
+
 Projects:
 
-- _Learner Data Institute (LDI)_, <br>
+- _Learner Data Institute (LDI)_ <br>
 - _Collaborative Research: CSEdPad_<br>
 
 ## Professional Experience
@@ -64,21 +65,21 @@ Projects:
 - Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
   Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
 
-- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, \*_ Priti Oli _, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, ** Priti Oli **, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
 
 ---
 
 ## Awards and Honors
 
-- Peter I. Neathery Scholarship/Fellowship (Aug 2020)
+- **Peter I. Neathery Scholarship/Fellowship (Aug 2020)**
   University of Memphis
 
--Runner-Up(2016)
-NASA space app challenge Kathmandu 2016
+- **Runner-Up(2016)**
+  NASA space app challenge Kathmandu 2016
 
 ## Travel Grant
 
--- IIS (Institute for Intelligent Systems) Travel Grant (2021)
+- IIS (Institute for Intelligent Systems) Travel Grant (2021)
 
 ## Services and Outreach
 
@@ -88,9 +89,9 @@ NASA space app challenge Kathmandu 2016
 
 ## Teaching
 
--Teaching Assistant
-IOE, Pulchowk Campus
-2017
+- Teaching Assistant
+  IOE, Pulchowk Campus
+  2017
 
 ---
 
