@@ -48,6 +48,8 @@ Projects:
 
 ## Professional Experience
 
+---
+
 - Senior Software Development Engineer (2018-2019),
   Zakipoint Health
 - Software Development Engineer (2017-2018),
@@ -59,13 +61,12 @@ Projects:
 
 ## Publications
 
+- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
+  Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
 - Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, Banjade Rabin, **Oli
   Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile, The International FLAIRS Conference Proceedings
   2021
-- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
-  Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
-
-- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, ** Priti Oli **, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, **Priti Oli**, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
 
 ---
 
