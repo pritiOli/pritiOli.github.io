@@ -67,6 +67,10 @@ Projects:
   Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile, The International FLAIRS Conference Proceedings
   2021
 - A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, **Priti Oli**, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation, Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, ...,**Priti Oli **,... Jascha Sohl-Dickstein, Jinho D. Choi, Eduard Hovy,arXiv:2112.02721v1
+- Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models}\textit{Aarohi Srivastava, Abhinav Rastogi,...., **Priti Oli**,.............., Zijie J. Wang, Zirui Wang, Ziyi Wu, arXiv:2206.04615
+- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus}, Proceedings of the 15th International Conference on Educational Data Mining
+- Automated Assessment of Student Self-explanation During Source Code Comprehension, Jeevan Chapagain, Lasang Tamang, Rabin Banjade, **Priti Oli**, Vasile Rus,The International FLAIRS Conference Proceedings
 
 ---
 
