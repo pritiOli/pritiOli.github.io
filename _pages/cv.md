@@ -24,7 +24,7 @@ Ph.D. in Computer Science<br>
 University of Memphis<br>
 _Advisor: Dr. Vasile Rus_
 
-**2019-2021**<br>
+**2019-current**<br>
 M.S in Computer Science<br>
 University of Memphis<br>
 Memphis, TN
