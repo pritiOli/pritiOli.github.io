@@ -6,7 +6,7 @@ excerpt: ""
 date: 2021-04-18
 venue: "Proceedings of the 52nd ACM Technical Symposium on Computer Science Education. 2021"
 publ: "false"
-citation: "Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, Priti Oli, and Vasile Rus. "A comparative study of free self-explanations and socratic tutoring explanations for source code comprehension." In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, pp. 219-225. 2021."
+citation: "Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, Priti Oli, and Vasile Rus. 'A comparative study of free self-explanations and socratic tutoring explanations for source code comprehension.' In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, pp. 219-225. 2021."
 link: ""
 paperurl: ""
 ---

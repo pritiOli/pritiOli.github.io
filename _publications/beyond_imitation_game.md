@@ -6,7 +6,7 @@ excerpt: ""
 date: 2022-06-09
 venue: "arXiv preprint arXiv:2112.02721"
 classes: wide
-citation: "Srivastava, Aarohi, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown et al. "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models." arXiv preprint arXiv:2206.04615 (2022)."
+citation: "Srivastava, Aarohi, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown et al. 'Beyond the imitation game: Quantifying and extrapolating the capabilities of language models.' arXiv preprint arXiv:2206.04615 (2022)."
 link: ""
 paperurl: ""
 ---
