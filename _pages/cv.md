@@ -45,6 +45,7 @@ Projects:
 
 - _Learner Data Institute (LDI)_ <br>
 - _Collaborative Research: CSEdPad_<br>
+- iCode: Adaptive Training of Students’ Code Comprehension Processes </br>
 
 ## Professional Experience
 
@@ -82,12 +83,22 @@ Projects:
 - **Runner-Up(2016)**
   NASA space app challenge Kathmandu 2016
 
+- Google Computer Science Research Mentorship Program (CSRMP 2022 a)
+- GHC Scholar 2022, 2023
+
 ## Travel Grant
 
-- IIS (Institute for Intelligent Systems) Travel Grant (2021)
+- IIS (Institute for Intelligent Systems) Travel Grant 2021, 2022, 2023
+- GSA Student Travel Award
+- Travel Award by SPLICE to present on CSEDM 2023
+- AIED 2023: Conference Travel Scholarship 
 
-## Services and Outreach
 
+## SProfession ervices and Outreach
+
+- Reviewer: SigCSE 2023, 2024
+- Reviewer: BEA Workshop (ACL 2023)
+- Reviewer: Flairs 2021, 2022
 - Volunteer: Code for Nepal (217-2018)
 
 ---
@@ -98,7 +109,8 @@ Projects:
   IOE, Pulchowk Campus
   2017
 
----
+--- Instructor
+    DataWhy's DataScience Internship 2023
 
 ## Talks and Presentations
 
