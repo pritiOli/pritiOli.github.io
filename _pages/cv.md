@@ -54,14 +54,19 @@ Projects:
 - Senior Software Development Engineer (2018-2019),
   Zakipoint Health
 - Software Development Engineer (2017-2018),
-  Zakipoint Health
+  Zakipoint Health Inc.
 - Associate Software Developer(2015-2016)
-  Deerwalk Service
+  Deerwalk Inc.
 
 ---
 
 ## Publications
 
+
+- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade,      **Priti Oli**, Lasang Jimba Tamang, Vasile Rus, Proceedings of the 15th International Conference on Educational Data Mining 2022
+- SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus, The International FLAIRS Conference Proceedings, 2023
+- Improving Code Comprehension through Scaffolded Self-Explanation, **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
+Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus, AIED: International Conference on Artificial Intelligence in Education 2023
 - Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
   Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
 - Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, Banjade Rabin, **Oli
@@ -73,6 +78,7 @@ Projects:
 - Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus}, Proceedings of the 15th International Conference on Educational Data Mining
 - Automated Assessment of Student Self-explanation During Source Code Comprehension, Jeevan Chapagain, Lasang Tamang, Rabin Banjade, **Priti Oli**, Vasile Rus,The International FLAIRS Conference Proceedings
 
+
 ---
 
 ## Awards and Honors
@@ -82,9 +88,9 @@ Projects:
 
 - **Runner-Up(2016)**
   NASA space app challenge Kathmandu 2016
-
 - Google Computer Science Research Mentorship Program (CSRMP 2022 a)
 - GHC Scholar 2022, 2023
+- 
 
 ## Travel Grant
 
@@ -92,6 +98,7 @@ Projects:
 - GSA Student Travel Award
 - Travel Award by SPLICE to present on CSEDM 2023
 - AIED 2023: Conference Travel Scholarship 
+- Grad Cohort 2020, 2021, 2022
 
 
 ## SProfession ervices and Outreach
@@ -109,7 +116,7 @@ Projects:
   IOE, Pulchowk Campus
   2017
 
---- Instructor
+- Instructor
     DataWhy's DataScience Internship 2023
 
 ## Talks and Presentations
