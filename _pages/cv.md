@@ -103,7 +103,7 @@ Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus, AIED: Internatio
 
 ## Professional Services and Outreach
 
-- Reviewer: SigCSE 2023, 2024
+- Reviewer: ACM SigCSE 2023, 2024
 - Reviewer: BEA Workshop (ACL 2023)
 - Reviewer: Flairs 2021, 2022
 - Volunteer: Code for Nepal (217-2018)
