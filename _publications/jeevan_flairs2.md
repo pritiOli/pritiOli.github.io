@@ -6,9 +6,7 @@ excerpt: ""
 date: 2023-5-22
 venue: "The International FLAIRS Conference Proceedings 36"
 classes: wide
-citation: "SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension
-J Chapagain, Z Risha, R Banjade, P Oli, L Tamang, P Brusilovsky, V RUs
-The International FLAIRS Conference Proceedings 36"
+citation: "Chapagain, Jeevan, Zak Risha, Rabin Banjade, Priti Oli, Lasang Tamang, Peter Brusilovsky, and Vasile Rus. 'SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension.' In The International FLAIRS Conference Proceedings, vol. 36. 2023."
 link: ""
 paperurl: ""
 ---
