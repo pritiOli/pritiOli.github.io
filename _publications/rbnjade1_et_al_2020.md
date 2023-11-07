@@ -6,7 +6,7 @@ excerpt: ""
 date: 2021-04-18
 venue: "The International FLAIRS Conference Proceedings 2021"
 classes: wide
-citation: "Banjade, Rabin. 'Domain model discovery from textbooks for computer programming intelligent tutors.' In the International FLAIRS Conference Proceedings, 34. 2021."
+citation: "Banjade, Rabin, Priti Oli, Lasang Jimba Tamang, Jeevan Chapagain, and Vasile Rus. "Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors.""
 link: ""
 paperurl: ""
 ---
