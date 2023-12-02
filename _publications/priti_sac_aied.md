@@ -1,18 +1,10 @@
 ---
-title: "The Behavior of Large Language Models When Prompted to Generate Code Explanations"
-collection: publications
-permalink: /publications/priti_aied.md
-excerpt: ""
-date: 2024-04-08
-venue: "SAC Conference (SAC’24).Avila. Spain"
-classes: wide
-citation: "---
 title: "Exploring The Effectiveness of Reading vs. Tutoring For Enhancing Code Comprehension For Novices"
 collection: publications
 permalink: /publications/priti_aied.md
 excerpt: ""
 date: 2024-04-08
-venue: "NeurIPS’23 Workshop on Generative AI for Education (GAIED)."
+venue: "SAC Conference (SAC’24).Avila. Spain"
 classes: wide
 citation: "Priti Oli, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
 and Vasile Rus. 2024. Exploring The Effectiveness of Reading vs. Tutoring
@@ -27,6 +19,7 @@ paperurl: ""
 ## Contribution
 
 ## Abstract
+
 
 This paper presents a comparison of two instructional strategies
 meant to help learners better comprehend code and learn program-
@@ -59,5 +52,4 @@ Priti Oli, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
 and Vasile Rus. 2024. Exploring The Effectiveness of Reading vs. Tutoring
 For, Enhancing Code Comprehension For Novices. In Proceedings of ACM
 SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
-
 
