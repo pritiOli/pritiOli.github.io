@@ -45,7 +45,7 @@ Projects:
 
 - _Learner Data Institute (LDI)_ <br>
 - _Collaborative Research: CSEdPad_<br>
-- iCode: Adaptive Training of Students’ Code Comprehension Processes </br>
+- iCode: Adaptive Training of Students’ Code Comprehension Processes 
 
 ## Professional Experience
 
@@ -62,7 +62,11 @@ Projects:
 
 ## Publications
 
-
+- Priti Oli, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
+and Vasile Rus. 2024. Exploring The Effectiveness of Reading vs. Tutoring
+For, Enhancing Code Comprehension For Novices. In Proceedings of ACM
+SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
+- P Oli, R Banjade, J Chapagain, V Rus - arXiv preprint arXiv:2311.01490, 2023
 - Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade,      **Priti Oli**, Lasang Jimba Tamang, Vasile Rus, Proceedings of the 15th International Conference on Educational Data Mining 2022
 - SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus, The International FLAIRS Conference Proceedings, 2023
 - Improving Code Comprehension through Scaffolded Self-Explanation, **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
