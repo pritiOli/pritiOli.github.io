@@ -13,8 +13,8 @@ a.uline {text-decoration:underline;}
 
 {% include base_path %}
 
-<a href="../files/resume.pdf" class="uline">Click here for a full pdf copy of my Resume</a>
-<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
+<a href="../assets/Priti_oli_Resume.pdf" class="uline">Click here for a full pdf copy of my Resume</a>
+<a href="../assets/Priti_Oli_CV.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 ## Education
 
