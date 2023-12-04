@@ -64,11 +64,11 @@ Projects:
 
 ## Publications
 
-- **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
-and Vasile Rus. 2024. Exploring The Effectiveness of Reading vs. Tutoring
-For, Enhancing Code Comprehension For Novices. In Proceedings of ACM
+- Exploring The Effectiveness of Reading vs. Tutoring
+For, Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
+and Vasile Rus. 2024.  In Proceedings of ACM
 SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
-- **Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus - arXiv preprint arXiv:2311.01490, 2023 (To be presented on NeurIPS'23 GAIED)
+- The Behavior of Large Language Models When Prompted to Generate Code Explanations. **Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus - arXiv preprint arXiv:2311.01490, 2023 (To be presented on NeurIPS'23 GAIED)
 - Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade,      **Priti Oli**, Lasang Jimba Tamang, Vasile Rus, Proceedings of the 15th International Conference on Educational Data Mining 2022
 - SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus, The International FLAIRS Conference Proceedings, 2023
 - Improving Code Comprehension through Scaffolded Self-Explanation, **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
