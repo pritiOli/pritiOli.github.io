@@ -63,7 +63,7 @@ Projects:
 ---
 
 ## Publications
-- Explaining Code Examples in Introductory Programming Courses: LLM vs Humans, Peter Brusilovsky,  Arun-Balajiee Lekshmi-Narayanan, **Priti Oli**, Jeevan Chapagain, Mohammad Hassany, Rabin Banjade, Vasile Rus  (To be presented on AAAI'24 AI4ED)
+- Explaining Code Examples in Introductory Programming Courses: LLM vs Humans,  Arun-Balajiee Lekshmi-Narayanan, **Priti Oli**, Jeevan Chapagain, Mohammad Hassany, Rabin Banjade, Peter Brusilovsky, Vasile Rus  (To be presented on AAAI'24 AI4ED)
 - Automated Assessment of Students' Code Comprehension using LLMs,Priti Oli, Rabin Banjade, Jeevan Chapagain, Vasile Rus (To be presented on AAAI'24 AI4ED)
 - Exploring The Effectiveness of Reading vs. Tutoring
 For, Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
