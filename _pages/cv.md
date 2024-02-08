@@ -104,7 +104,7 @@ Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus, AIED: Internatio
 - GSA Student Travel Award
 - Travel Award by SPLICE to present on CSEDM 2023
 - AIED 2023: Conference Travel Scholarship 
-- Grad Cohort 2020, 2021, 2022
+- CRA Grad Cohort 2020, 2021, 2022
 
 
 ## Professional Services and Outreach
