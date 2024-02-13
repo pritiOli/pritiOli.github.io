@@ -94,8 +94,8 @@ Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus, AIED: Internatio
   University of Memphis
 - **Runner-Up(2016)**
   NASA space app challenge Kathmandu 2016
-- **Google** Computer Science Research Mentorship Program (CSRMP 2022 a)
-- **GHC** Scholar 2022, 2023
+- Google Computer Science Research Mentorship Program (CSRMP 2022 a)
+- GHC Scholar 2022, 2023
   
 
 ## Travel Grant
