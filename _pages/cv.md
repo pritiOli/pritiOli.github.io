@@ -76,6 +76,7 @@ SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
 Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus_, AIED: International Conference on Artificial Intelligence in Education 2023
 - Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, _**Oli Priti**,
   Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile_, The International FLAIRS Conference Proceedings 2021
+- A Systematic Investigation of Expert and Novice Programmers’ Ratings of Code Cohesion. _Jeff Bye, Rina Harsch, Yewon Kang, **Priti Oli**, Rabin Banjade Banjade, Andrew Tawfik, Vasile Rus, Panayiota Kendeou_, Poster presented at the 64th Annual Meeting of the Psychonomic Society. San Francisco, CA, USA(2023, November)
 - Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, _Banjade Rabin, **Oli
   Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile_, The International FLAIRS Conference Proceedings
   2021
