@@ -69,21 +69,21 @@ Projects:
 For, Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
 and Vasile Rus. 2024.  In Proceedings of ACM
 SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
-- The Behavior of Large Language Models When Prompted to Generate Code Explanations. **Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus - arXiv preprint arXiv:2311.01490, 2023 (To be presented on NeurIPS'23 GAIED)
-- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade,      **Priti Oli**, Lasang Jimba Tamang, Vasile Rus, Proceedings of the 15th International Conference on Educational Data Mining 2022
-- SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus, The International FLAIRS Conference Proceedings, 2023
-- Improving Code Comprehension through Scaffolded Self-Explanation, **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
-Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus, AIED: International Conference on Artificial Intelligence in Education 2023
-- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, **Oli Priti**,
-  Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile, The International FLAIRS Conference Proceedings 2021
-- Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, Banjade Rabin, **Oli
-  Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile, The International FLAIRS Conference Proceedings
+- The Behavior of Large Language Models When Prompted to Generate Code Explanations. _**Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ - arXiv preprint arXiv:2311.01490, 2023, Genrative AI in Education Workshop, NeurIPS 2023 GAIED
+- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, _Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus_, Proceedings of the 15th International Conference on Educational Data Mining 2022
+- SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, _Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus_, The International FLAIRS Conference Proceedings, 2023
+- Improving Code Comprehension through Scaffolded Self-Explanation, _**Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
+Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus_, AIED: International Conference on Artificial Intelligence in Education 2023
+- Automated Assessment of Quality of Jupyter Notebooks Using Artificial Intelligence and Big Code, _**Oli Priti**,
+  Banjade Rabin, Tamang Lasang Jimba, and Rus Vasile_, The International FLAIRS Conference Proceedings 2021
+- Domain Model Discovery from Textbooks for Computer Programming Intelligent Tutors, _Banjade Rabin, **Oli
+  Priti**, Tamang Lasang Jimba, Chapagain Jeevan, and Rus Vasile_, The International FLAIRS Conference Proceedings
   2021
-- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, **Priti Oli**, and Vasile Rus, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
-- NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation, Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Priti Oli** ,... Jascha Sohl-Dickstein, Jinho D. Choi, Eduard Hovy,arXiv:2112.02721v1
-- Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models, Aarohi Srivastava, Abhinav Rastogi,...., **Priti Oli**,.............., Zijie J. Wang, Zirui Wang, Ziyi Wu, arXiv:2206.04615
-- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus, Proceedings of the 15th International Conference on Educational Data Mining
-- Automated Assessment of Student Self-explanation During Source Code Comprehension, Jeevan Chapagain, Lasang Tamang, Rabin Banjade, **Priti Oli**, Vasile Rus,The International FLAIRS Conference Proceedings
+- A Comparative Study of Free Self-Explanations and Socratic Tutoring Explanations for Source Code Comprehension, _Tamang, Lasang Jimba, Zeyad Alshaikh, Nisrine Ait Khayi, **Priti Oli**, and Vasile Rus_, In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (pp. 219-225).
+- NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation, _Kaustubh D. Dhole, Varun Gangal, Sebastian Gehrmann, ..., **Priti Oli** ,... Jascha Sohl-Dickstein, Jinho D. Choi, Eduard Hovy_,arXiv:2112.02721v1
+- Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models, _Aarohi Srivastava, Abhinav Rastogi,...., **Priti Oli**,.............., Zijie J. Wang, Zirui Wang, Ziyi Wu_, arXiv:2206.04615
+- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, _Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus_, Proceedings of the 15th International Conference on Educational Data Mining
+- Automated Assessment of Student Self-explanation During Source Code Comprehension, _Jeevan Chapagain, Lasang Tamang, Rabin Banjade, **Priti Oli**, Vasile Rus_,The International FLAIRS Conference Proceedings
 
 
 ---
