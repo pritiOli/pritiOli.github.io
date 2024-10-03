@@ -64,7 +64,7 @@ Projects:
 
 ## Publications
 
-- Automated Assessment of Students' Code Comprehension using LLMs,_Priti Oli, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ AI  Proceedings of the 2024 AAAI Conference on Artificial Intelligence, PMLR 257:118-128
+- Automated Assessment of Students' Code Comprehension using LLMs, _Priti Oli, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ AI  Proceedings of the 2024 AAAI Conference on Artificial Intelligence, PMLR 257:118-128
 - Explaining Code Examples in Introductory Programming Courses: LLM vs Humans,  _Arun-Balajiee Lekshmi-Narayanan, **Priti Oli**, Jeevan Chapagain, Mohammad Hassany, Rabin Banjade, Peter Brusilovsky, Vasile Rus_  Proceedings of the 2024 AAAI Conference on Artificial Intelligence, PMLR  257:107-117
 - The Behavior of Large Language Models When Prompted to Generate Code Explanations. _**Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ - arXiv preprint arXiv:2311.01490, 2023, Generative AI in Education Workshop, NeurIPS 2023 GAIED
 - Exploring The Effectiveness of Reading vs. Tutoring for Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky, and Vasile Rus. 2024.  In Proceedings of ACM SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
