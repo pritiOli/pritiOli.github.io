@@ -11,8 +11,7 @@ classes: wide
 
 <!-- <img src="../assets/images/wordcloud-coverpic.jpg"><br clear="left"> -->
 
-I am a graduate student pursuing my PhD in computer science under the supervision of my Professor Vasile Rus in Language and Information Processing lab at the University of Memphis. My primary research interest in using machine learning techniques in source code to solve various problems. I am also interested in the application of AI in education, specifically in dialogue based tutoring System for code comprehension to assist begginers (cs1 and cs2 students) to better understand JAVA programming.
-
+I am a Computer Science Ph.D. graduate from the University of Memphis, where I conducted my research under the supervision of Dr. Vasile Rus in the Language and Information Processing Lab. My primary research focuses on applying natural language  processing techniques to source code to tackle various challenges. I am also passionate about the application of AI in education, particularly in developing dialogue-based tutoring systems aimed at helping beginner students (CS1 and CS2) improve their understanding of Java programming.
 ## Professional
 
 Before joining the University of Memphis I worked as a full time software engineer for Zakipoint Health.
