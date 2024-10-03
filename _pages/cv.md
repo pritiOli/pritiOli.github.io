@@ -21,7 +21,7 @@ a.uline {text-decoration:underline;}
 
 ---
 
-**In Progress**<br>
+**2019-2024**<br>
 Ph.D. in Computer Science<br>
 University of Memphis<br>
 _Advisor: Dr. Vasile Rus_
@@ -40,7 +40,7 @@ Tribhuvan University
 
 ---
 
-**2019 - Present**<br>
+**2019 - 2024**<br>
 Graduate Research Assistant<br>
 
 Projects:
@@ -63,14 +63,12 @@ Projects:
 ---
 
 ## Publications
-- Explaining Code Examples in Introductory Programming Courses: LLM vs Humans,  _Arun-Balajiee Lekshmi-Narayanan, **Priti Oli**, Jeevan Chapagain, Mohammad Hassany, Rabin Banjade, Peter Brusilovsky, Vasile Rus_  AI for Education Workshop, AAAI 2024 
-- Automated Assessment of Students' Code Comprehension using LLMs,_Priti Oli, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ AI for Education Workshop, AAAI 2024 
-- Exploring The Effectiveness of Reading vs. Tutoring
-For, Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky,
-and Vasile Rus. 2024.  In Proceedings of ACM
-SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
-- The Behavior of Large Language Models When Prompted to Generate Code Explanations. _**Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ - arXiv preprint arXiv:2311.01490, 2023, Genrative AI in Education Workshop, NeurIPS 2023 GAIED
-- Preliminary Experiments with Transformer based Approaches To Automatically Inferring Domain Models from Textbooks, _Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus_, Proceedings of the 15th International Conference on Educational Data Mining 2022
+
+- Automated Assessment of Students' Code Comprehension using LLMs,_Priti Oli, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ AI  Proceedings of the 2024 AAAI Conference on Artificial Intelligence, PMLR 257:118-128
+- Explaining Code Examples in Introductory Programming Courses: LLM vs Humans,  _Arun-Balajiee Lekshmi-Narayanan, **Priti Oli**, Jeevan Chapagain, Mohammad Hassany, Rabin Banjade, Peter Brusilovsky, Vasile Rus_  Proceedings of the 2024 AAAI Conference on Artificial Intelligence, PMLR  257:107-117
+- The Behavior of Large Language Models When Prompted to Generate Code Explanations. _**Priti Oli**, Rabin Banjade, Jeevan Chapagain, Vasile Rus_ - arXiv preprint arXiv:2311.01490, 2023, Generative AI in Education Workshop, NeurIPS 2023 GAIED
+- Exploring The Effectiveness of Reading vs. Tutoring for Enhancing Code Comprehension For Novices. **Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Peter Brusilovsky, and Vasile Rus. 2024.  In Proceedings of ACM SAC Conference (SAC’24). ACM,  Avila, Spain, Article 4, 10 pages
+- Preliminary Experiments with Transformer-based Approaches To Automatically Inferring Domain Models from Textbooks, _Rabin Banjade, **Priti Oli**, Lasang Jimba Tamang, Vasile Rus_, Proceedings of the 15th International Conference on Educational Data Mining 2022
 - SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension, _Jeevan Chapagain, Zak Risha, Rabin Banjade, **Priti Oli**, Lasang Tamang, Peter Brusilovsky, Vasile Rus_, The International FLAIRS Conference Proceedings, 2023
 - Improving Code Comprehension through Scaffolded Self-Explanation, _**Priti Oli**, Rabin Banjade, Arun Balajiee Lekshmi Narayanan, Jeevan
 Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus_, AIED: International Conference on Artificial Intelligence in Education 2023
@@ -91,11 +89,11 @@ Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus_, AIED: Internati
 
 ## Awards and Honors
 
+- Google Computer Science Research Mentorship Program (CSRMP 2022 a)
 - **Peter I. Neathery Scholarship/Fellowship (Aug 2020)**
   University of Memphis
 - **Runner-Up(2016)**
   NASA space app challenge Kathmandu 2016
-- Google Computer Science Research Mentorship Program (CSRMP 2022 a)
 - GHC Scholar 2022, 2023
   
 
@@ -110,8 +108,9 @@ Chapagain, Lasang J. Tamang, Peter Brusilovsky, and Vasile Rus_, AIED: Internati
 
 ## Professional Services and Outreach
 
-- Reviewer: ACM SigCSE 2023, 2024
-- Reviewer: BEA Workshop (ACL 2023)
+- Reviewer: ACM-SIGCSE (Special Interest Group Computer Science Education) 2023,2024
+- Reviewer: BEA Workshop (ACL 2023), CSEDM workshop 2024
+- Reviewer: International Journal of Artificial Intelligence in Education
 - Reviewer: Flairs 2021, 2022
 - Volunteer: Code for Nepal (217-2018)
 
